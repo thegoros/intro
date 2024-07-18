@@ -1,1 +1,1 @@
-# intro
+# Goros landing page
